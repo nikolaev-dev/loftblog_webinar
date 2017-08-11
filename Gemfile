@@ -9,6 +9,7 @@ end
 
 gem 'rails', '~> 5.1.3'
 gem 'devise'
+gem "twitter-bootstrap-rails"
 gem 'sqlite3'
 gem 'puma', '~> 3.7'
 gem 'sass-rails', '~> 5.0'
